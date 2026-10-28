@@ -56,3 +56,11 @@ Banks need to automate loan approval to reduce risk. Build a model that predicts
 - Logistic Regression linear - can't capture complex patterns
 - Missing external data (CIBIL score details)
 
+
+### Deployed Link
+https://loan-approval-prediction-tci6wtc8jcagznkicva3s8.streamlit.app
+### Project Structure
+- app.py - Streamlit app
+- train.csv - Dataset
+- requirements.txt
+- README.md
